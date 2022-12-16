@@ -1,0 +1,2 @@
+# QMySQL
+VS19 下编译Qt5.15.2的MySQL驱动
